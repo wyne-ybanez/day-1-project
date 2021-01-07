@@ -1,1 +1,1 @@
-# day-1-project
+# Day 1 Project
